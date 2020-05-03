@@ -1,4 +1,6 @@
 - name: Home
   link: /
+- name: Articles
+  link: /blog.html
 - name: Virginia Satir
   link: /virginia.html
