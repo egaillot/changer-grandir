@@ -1,0 +1,17 @@
+---
+layout: default
+---
+<h1>{{ page.name }}</h1>
+
+<img src="{{ page.image | relative_url }}">
+
+{{ content }}
+
+<h2>Articles</h2>
+<ul>
+  {% for post in site.posts %}
+    {% if post.authors contains page.nick %}
+      <li><a href="{{ post.url | relative_url }}">{{ post.title }}</a></li>
+    {% endif %}
+  {% endfor %}
+</ul>

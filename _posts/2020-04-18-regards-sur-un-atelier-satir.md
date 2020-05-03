@@ -1,7 +1,8 @@
 ---
-layout: post
 title: Regards sur un atelier Satir
-author: Christian Lapointe, Emmanuel Gaillot
+authors:
+- christian
+- manu
 ---
 
 ![Gabriola]({{ "/assets/images/20200418-regards.jpg" | relative_url }}){: height="422px" width="524px"}

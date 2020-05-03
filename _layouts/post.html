@@ -1,7 +1,19 @@
 ---
 layout: default
 ---
+
+{% assign authors = page.authors %}
+
 <h1>{{ page.title }}</h1>
-<p>{{ page.date | date_to_string }} - {{ page.author }}</p>
+<p>
+  {{ page.date | date_to_string }} -
+  {% for author in authors %}
+    {% assign current_author = site.authors | where: "nick", author | first %}
+    {% unless forloop.first %}
+      /
+    {% endunless %}
+    <a href="{{ current_author.url | relative_url }}">{{ current_author.name }}</a>
+  {% endfor %}
+</p>
 
 {{ content }}

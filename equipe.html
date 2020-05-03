@@ -1,0 +1,10 @@
+---
+title: Qui nous sommes
+---
+
+<h1>Qui nous sommes</h1>
+
+{% for author in site.authors %}
+  <h2><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h2>
+  {{ author.content | markdownify }}
+{% endfor %}
