@@ -6,7 +6,23 @@ layout: default
 
 <h1>{{ page.title }}</h1>
 <p>
-  {{ page.date | date_to_string }} -
+{% assign month = page.date | date: "%-m" %}
+{{ page.date | date: "%-d" }}
+{% case month %}
+  {% when '1' %}janvier
+  {% when '2' %}février
+  {% when '3' %}mars
+  {% when '4' %}avril
+  {% when '5' %}mai
+  {% when '6' %}juin
+  {% when '7' %}juillet
+  {% when '8' %}août
+  {% when '9' %}septembre
+  {% when '10' %}octobre
+  {% when '11' %}novembre
+  {% when '12' %}décembre
+{% endcase %}
+{{ page.date | date: "%Y" }} -
   {% for author in authors %}
     {% assign current_author = site.authors | where: "nick", author | first %}
     {% unless forloop.first %}
