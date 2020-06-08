@@ -6,7 +6,30 @@
     <link rel="stylesheet" href="{{ 'assets/css/styles.css' | relative_url }}">
   </head>
   <body>
-    {% include navigation.html %}
-    {{ content }}
+    <div class="grille">
+      {% include navigation.html %}
+      <div class="zone-principale">
+        <div class="contenu">{{ content }}</div>
+      </div>
+      <header>
+        <div class='titre'>Changer / Grandir</div>
+        <div class='logo'></div>
+      </header>
+      <footer>
+        <div class="logo"></div>
+        <div>
+          <p>
+            Changer-Grandir - 2020
+          </p>
+          <p>
+            Code sous license <a href="https://www.gnu.org/licenses/gpl-3.0.en.html">GPLv3</a><br/>
+            Contenus sous license
+            <a href="https://creativecommons.org/licenses/by/4.0/">
+              Creative Commons Attribution 4.0 International
+            </a>
+          </p>
+        </div>
+      </footer>
+    </div>
   </body>
 </html>
