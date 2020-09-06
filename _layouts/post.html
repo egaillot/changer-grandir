@@ -2,34 +2,15 @@
 layout: default
 ---
 
-{% assign authors = page.authors %}
 
-<h1>{{ page.title }}</h1>
-<p>
-{% assign month = page.date | date: "%-m" %}
-{{ page.date | date: "%-d" }}
-{% case month %}
-  {% when '1' %}janvier
-  {% when '2' %}février
-  {% when '3' %}mars
-  {% when '4' %}avril
-  {% when '5' %}mai
-  {% when '6' %}juin
-  {% when '7' %}juillet
-  {% when '8' %}août
-  {% when '9' %}septembre
-  {% when '10' %}octobre
-  {% when '11' %}novembre
-  {% when '12' %}décembre
-{% endcase %}
-{{ page.date | date: "%Y" }} -
-  {% for author in authors %}
-    {% assign current_author = site.authors | where: "nick", author | first %}
-    {% unless forloop.first %}
-      /
-    {% endunless %}
-    <a href="{{ current_author.url | relative_url }}">{{ current_author.name }}</a>
-  {% endfor %}
-</p>
+<div class="article">
+  <h1>{{ page.title }}</h1>
+  {% assign item = page %}
+  {% include presente_date.html %} –
+  {% include presente_auteurs.html %}
 
-{{ content }}
+  <img src="{{ page.image | relative_url }}">
+  <div class="legende-image">({{ page.image_title }})</div>
+
+  {{ content }}
+</div>

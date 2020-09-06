@@ -1,14 +1,11 @@
 ---
 title: Regards sur un atelier Satir
+image: /assets/images/20200418-regards.jpg
+image_title: Un petit moment de tranquillité à « the Haven » sur l’île de Gabriola en Colombie-Britannique, Canada.
 authors:
 - christian
 - manu
 ---
-
-![Gabriola]({{ "/assets/images/20200418-regards.jpg" | relative_url }}){: height="422px" width="524px"}
-
-_Un petit moment de tranquillité à « the Haven » sur l’île de Gabriola en
-Colombie-Britannique, Canada._
 
 La première rencontre est polie. Prudente. Dans la retenue. Les participant·es
 se regardent, se jaugent, essaient de comprendre quelle est leur place. Une

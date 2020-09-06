@@ -1,13 +1,26 @@
 ---
 title: Articles
 ---
-<h1>Derniers articles</h1>
 
-<ul>
-  {% for post in site.posts %}
-    <li>
-      <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-      {{ post.excerpt }}
-    </li>
-  {% endfor %}
-</ul>
+<div class='liste-articles'>
+  <h1>Derniers articles</h1>
+
+  <ul>
+    {% for post in site.posts %}
+      <li>
+        <div class="infos-article">
+          <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
+          {% assign item = post %}
+          {% include presente_date.html %} –
+          {% include presente_auteurs.html %}
+        </div>
+        <div class="resume-article">
+          <img src="{{ post.image | relative_url }}">
+          <div class="texte-resume">
+            {{ post.excerpt }}
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
