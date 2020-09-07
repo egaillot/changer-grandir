@@ -4,13 +4,17 @@ layout: default
 
 
 <div class="article">
-  <h1>{{ page.title }}</h1>
-  {% assign item = page %}
-  {% include presente_date.html %} –
-  {% include presente_auteurs.html %}
-
-  <img src="{{ page.image | relative_url }}">
-  <div class="legende-image">({{ page.image_title }})</div>
-
-  {{ content }}
+  <div class="entete-article">
+    <img src="{{ page.image | relative_url }}">
+    <div class="infos-article">
+      <h1>{{ page.title }}</h1>
+      {% assign item = page %}
+      {% include presente_date.html %} –
+      {% include presente_auteurs.html %}
+    </div>
+  </div>
+  <div class="contenu-article">
+    {{ content }}
+    <div class="logo"></div>
+  </div>
 </div>

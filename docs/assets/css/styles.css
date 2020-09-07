@@ -48,9 +48,19 @@ h1 { margin-top: 0; margin-bottom: 1em; }
 
 .liste-articles .resume-article p { flex: 3; margin: 0; font-size: 0.8em; font-style: italic; }
 
+.article { margin-left: 2em; margin-right: 2em; }
+
+.article .entete-article { position: relative; }
+
+.entete-article img { display: block; margin: 3em 0 3em 4em; width: 23em; }
+
+.article .infos-article { position: absolute; left: 11em; top: 11em; padding: 0.5em; background: #fffa; box-shadow: 10px 10px 15px #0002; }
+
+.article .logo { margin: auto; width: 5em; }
+
 .article h1 { margin-bottom: 0; }
 
-.article img { display: block; margin: 2em 0 3em; width: 20em; }
+.article .contenu-article { clear: right; }
 
 footer { grid-column: 1 / 5; display: flex; flex-direction: row; align-items: center; padding: 2em; background: #0f252d; color: #fabe5488; font-size: 0.7em; }
 
