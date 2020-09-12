@@ -1,8 +1,8 @@
 ---
-title: Virginia Satir
+layout: post
+title: À propos de Virginia Satir…
+image: /assets/images/VirginiaSatir.jpg
 ---
-
-# À propos de Virginia Satir…
 
 Virginia Satir est une thérapeute américaine de la deuxième moitié du 20e
 siècle, qui a développé divers processus pour aider à se comprendre soi-même,
