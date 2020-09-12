@@ -2,19 +2,19 @@
 title: Articles
 ---
 
-<div class='liste-articles'>
+<div class='liste-items'>
   <h1>Derniers articles</h1>
 
   <ul>
     {% for post in site.posts %}
       <li>
-        <div class="infos-article">
+        <div class="infos-item">
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
           {% assign item = post %}
           {% include presente_date.html %} –
           {% include presente_auteurs.html %}
         </div>
-        <div class="resume-article">
+        <div class="resume-item">
           <img src="{{ post.image | relative_url }}">
           <div class="texte-resume">
             {{ post.excerpt }}

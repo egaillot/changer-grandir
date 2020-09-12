@@ -32,21 +32,21 @@ nav li.page_courante { background: #fff5; }
 
 .contenu a:hover { color: #07ad84; }
 
-.liste-articles ul { margin-bottom: 0; }
+.liste-items ul { margin-bottom: 0; }
 
 h1 { margin-top: 0; margin-bottom: 1em; }
 
-.liste-articles li { margin-top: 2em; padding: 1em; background: #fff4; }
+.liste-items li { margin-top: 2em; padding: 1em; background: #fff4; }
 
-.liste-articles .infos-article { margin-bottom: 1em; }
+.liste-items .infos-item { margin-bottom: 1em; }
 
-.liste-articles .infos-article h2 { margin-top: 0; margin-bottom: 0; }
+.liste-items .infos-item h2 { margin-top: 0; margin-bottom: 0; }
 
-.liste-articles .resume-article { display: flex; }
+.liste-items .resume-item { display: grid; grid-template-columns: 1fr 6fr; grid-gap: 1em; }
 
-.liste-articles .resume-article img { flex: 1; height: 4em; padding-right: 1em; }
+.liste-items .resume-item img { grid-column: 1 / 2; height: 4em; padding-right: 1em; }
 
-.liste-articles .resume-article p { flex: 3; margin: 0; font-size: 0.8em; font-style: italic; }
+.liste-items .resume-item p { grid-column: 2 / 3; margin: 0; font-size: 0.8em; font-style: italic; }
 
 .article { margin-left: 2em; margin-right: 2em; }
 

@@ -109,7 +109,7 @@ nav li.page_courante {
 }
 
 
-.liste-articles ul {
+.liste-items ul {
   margin-bottom: 0;
 }
 
@@ -118,33 +118,35 @@ h1 {
   margin-bottom: 1em;
 }
 
-.liste-articles li {
+.liste-items li {
   margin-top: 2em;
   padding: 1em;
   background: #fff4;
 }
 
-.liste-articles .infos-article {
+.liste-items .infos-item {
   margin-bottom: 1em;
 }
 
-.liste-articles .infos-article h2 {
+.liste-items .infos-item h2 {
   margin-top: 0;
   margin-bottom: 0;
 }
 
-.liste-articles .resume-article {
-  display: flex;
+.liste-items .resume-item {
+  display: grid;
+  grid-template-columns: 1fr 6fr;
+  grid-gap: 1em;
 }
 
-.liste-articles .resume-article img {
-  flex: 1;
+.liste-items .resume-item img {
+  grid-column: 1 / 2;
   height: 4em;
   padding-right: 1em;
 }
 
-.liste-articles .resume-article p {
-  flex: 3;
+.liste-items .resume-item p {
+  grid-column: 2 / 3;
   margin: 0;
   font-size: 0.8em;
   font-style: italic;

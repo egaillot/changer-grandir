@@ -2,9 +2,22 @@
 title: Qui nous sommes
 ---
 
-<h1>Qui nous sommes</h1>
+<div class='liste-items'>
+  <h1>Qui nous sommes</h1>
 
-{% for author in site.authors %}
-  <h2><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h2>
-  {{ author.content | markdownify }}
-{% endfor %}
+  <ul>
+    {% for author in site.authors %}
+      <li>
+        <div class="infos-item">
+          <h2><a href="{{ author.url | relative_url }}">{{ author.name }}</a></h2>
+        </div>
+        <div class="resume-item">
+          <img src="{{ author.image | relative_url }}">
+          <div class="texte-resume">
+            {{ author.excerpt }}
+          </div>
+        </div>
+      </li>
+    {% endfor %}
+  </ul>
+</div>
