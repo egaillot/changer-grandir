@@ -1,7 +1,7 @@
 ---
 layout: post
 title: À propos de Virginia Satir…
-image: /assets/images/VirginiaSatir.jpg
+image: /assets/images/VirginiaSatir.png
 undated: true
 ---
 

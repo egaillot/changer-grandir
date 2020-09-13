@@ -1,6 +1,41 @@
+@font-face {
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans/OpenSans-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans/OpenSans-Italic.ttf") format("truetype");
+  font-style: italic;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans/OpenSans-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: OpenSans;
+  src: url("../fonts/OpenSans/OpenSans-BoldItalic.ttf") format("truetype");
+  font-style: italic;
+  font-weight: bold;
+}
+
+@font-face {
+  font-family: Oswald;
+  src: url("../fonts/Oswald/Oswald-Regular.ttf") format("truetype");
+}
+
+@font-face {
+  font-family: Oswald;
+  src: url("../fonts/Oswald/Oswald-Bold.ttf") format("truetype");
+  font-weight: bold;
+}
+
 html {
   height: 100%;
-  font-family: sans-serif;
+  font-family: OpenSans;
   color: #0f252d;
 }
 
@@ -139,6 +174,9 @@ h1 {
 .liste-items .infos-item h2 {
   margin-top: 0;
   margin-bottom: 0;
+
+  font-family: Oswald;
+  font-weight: 400;
 }
 
 .liste-items .resume-item {
@@ -190,6 +228,9 @@ h1 {
 
 .item h1 {
   margin-bottom: 0;
+
+  font-family: Oswald;
+  font-weight: 400;
 }
 
 footer {
