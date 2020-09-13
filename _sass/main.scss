@@ -6,23 +6,20 @@ html {
 
 body {
   height: 100%;
-  margin: 0;
   padding: 0;
-  background: #0f252d;
+  background: #000;
+  position: relative;
+  margin: 0 auto;
+  width: 900px;
 }
 
-.grille {
-  min-height: 100%;
-  display: grid;
-  grid-template-columns: 10% 10% 70% 10%;
-  grid-template-rows: 1fr auto auto;
-  background: linear-gradient(135deg, #fabe54, #07ad84);
-
+.conteneur {
+  height: 100%;
+  position: relative;
 }
 
 header {
-  grid-column: 2 / 4;
-  width: 80%;
+  width: 85%;
 
   display: flex;
   flex-direction: row-reverse;
@@ -35,19 +32,30 @@ header {
   box-shadow: 10px 10px 15px #0002;
 }
 
+.grille {
+  min-height: 100%;
+
+  display: grid;
+  grid-template-columns: 10% 10% 75% 5%;
+  grid-template-rows: 1fr auto auto;
+
+  background: linear-gradient(135deg, #fabe54, #07ad84);
+
+}
+
 .logo {
   flex-shrink: 0;
 
   background: url('../images/logo.png') no-repeat center/100%;
-  width: 6em;
-  height: 6em;
+  width: 5em;
+  height: 5em;
   margin: 0 0 0 0.4em;
 }
 
 .titre {
   flex: 1 0 auto;
 
-  padding: 0.5em 1em 0.5em 0;
+  padding: 0.4em 1em 0.4em 0;
   text-align: right;
   font-size: 3em;
   font-style: italic;
@@ -153,8 +161,7 @@ h1 {
 }
 
 .item {
-  margin-left: 2em;
-  margin-right: 2em;
+  margin: 1em;
 }
 
 .item .entete-item {
@@ -163,7 +170,7 @@ h1 {
 
 .entete-item img {
   display: block;
-  margin: 3em 0 3em 4em;
+  margin: 0 0 3em;
   height: 18em;
 }
 
@@ -177,16 +184,12 @@ h1 {
 }
 
 .item .logo {
-  margin: auto;
+  margin: 3em auto 0;
   width: 5em;
 }
 
 .item h1 {
   margin-bottom: 0;
-}
-
-.contenu-article {
-  clear: right;
 }
 
 footer {
