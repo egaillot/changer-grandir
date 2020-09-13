@@ -1,4 +1,5 @@
 destination: docs
+host: 0.0.0.0
 
 collections:
   authors:
@@ -19,3 +20,6 @@ defaults:
       path: ""
     values:
       layout: "default"
+
+kramdown:
+  entity_output: :as_input
