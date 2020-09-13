@@ -1,21 +1,8 @@
 ---
-layout: default
+layout: item
 ---
 
-
-<div class="article">
-  <div class="entete-article">
-    <img src="{{ page.image | relative_url }}">
-    <div class="infos-article">
-      <h1>{{ page.title }}</h1>
-      {% assign item = page %}
-      {% include presente_date.html %}
-      {% if item.date %} – {% endif %}
-      {% include presente_auteurs.html %}
-    </div>
-  </div>
-  <div class="contenu-article">
-    {{ content }}
-    <div class="logo"></div>
-  </div>
+<div class="contenu-article">
+  {{ content }}
+  <div class="logo"></div>
 </div>

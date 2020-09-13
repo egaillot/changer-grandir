@@ -152,40 +152,40 @@ h1 {
   font-style: italic;
 }
 
-.article {
+.item {
   margin-left: 2em;
   margin-right: 2em;
 }
 
-.article .entete-article {
+.item .entete-item {
   position: relative;
 }
 
-.entete-article img {
+.entete-item img {
   display: block;
   margin: 3em 0 3em 4em;
   height: 18em;
 }
 
-.article .infos-article {
+.item .infos-item {
   position: absolute;
-  left: 11em;
+  right: 1em;
   top: 60%;
   padding: 0.5em;
   background: #fffa;
   box-shadow: 10px 10px 15px #0002;
 }
 
-.article .logo {
+.item .logo {
   margin: auto;
   width: 5em;
 }
 
-.article h1 {
+.item h1 {
   margin-bottom: 0;
 }
 
-.article .contenu-article {
+.contenu-article {
   clear: right;
 }
 

@@ -1,12 +1,10 @@
 ---
-layout: default
+layout: item
 ---
-<h1>{{ page.name }}</h1>
-
-<img src="{{ page.image | relative_url }}">
 
 {{ content }}
 
+<div class="logo"></div>
 <h2>Articles</h2>
 <ul>
   {% for post in site.posts %}

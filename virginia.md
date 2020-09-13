@@ -2,6 +2,7 @@
 layout: post
 title: À propos de Virginia Satir…
 image: /assets/images/VirginiaSatir.jpg
+undated: true
 ---
 
 Virginia Satir est une thérapeute américaine de la deuxième moitié du 20e

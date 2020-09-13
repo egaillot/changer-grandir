@@ -4,6 +4,6 @@
   {% unless forloop.first %}
     /
   {% endunless %}
-  <a href="{{ current_author.url | relative_url }}">{{ current_author.name }}</a>
+  <a href="{{ current_author.url | relative_url }}">{{ current_author.title }}</a>
 {% endfor %}
 

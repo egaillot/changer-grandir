@@ -1,0 +1,20 @@
+---
+layout: default
+---
+
+<div class="item">
+  <div class="entete-item">
+    <img src="{{ page.image | relative_url }}">
+    <div class="infos-item">
+      <h1>{{ page.title }}</h1>
+      {% unless page.undated %}
+        {% assign item = page %}
+        {% include presente_date.html %}
+        –
+      {% endunless %}
+      {% include presente_auteurs.html %}
+    </div>
+  </div>
+
+  {{ content }}
+</div>
