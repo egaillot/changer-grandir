@@ -137,17 +137,22 @@ nav li.page_courante {
   color: #0a6379;
 }
 
+.contenu a {
+  color: #0f252ddd;
+  text-decoration: underline;
+}
+
 .contenu ul {
   padding: 0;
   list-style-type: none;
 }
 
-.contenu a {
+.liste-items a {
   text-decoration: none;
   color: #0a6379;
 }
 
-.contenu a:hover {
+.liste-items a:hover {
   color: #07ad84;
 }
 
@@ -231,11 +236,6 @@ h1 {
 
   font-family: Oswald;
   font-weight: 400;
-}
-
-.contenu-article a {
-  color: #0f252ddd;
-  text-decoration: underline;
 }
 
 footer {
