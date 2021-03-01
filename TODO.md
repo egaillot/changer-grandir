@@ -2,6 +2,7 @@
 - Ajouter un favicon
 - Lien vers la Home sur logos (entête et pied-de-page)
 - Ajout de liens vers les pages liste en bas de page détails
+- Faire en sorte que la date `2021-03-01` s'écrive `1er mars 2021`
 
 # CSS
 - largeur minimale ?

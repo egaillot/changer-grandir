@@ -147,6 +147,21 @@ nav li.page_courante {
   list-style-type: none;
 }
 
+.contenu .language-plaintext pre {
+  margin: 3em 1em 3em 5em;
+  padding: 1em;
+  background: #fff4;
+}
+
+.contenu code {
+  font-family: Oswald;
+}
+
+.contenu-article ul {
+  padding-left: 2em;
+  list-style-type: square;
+}
+
 .liste-items a {
   text-decoration: none;
   color: #0a6379;
