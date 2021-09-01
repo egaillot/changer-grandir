@@ -31,11 +31,10 @@ d'introduction et d'approfondissement que Christian et Emmanuel organisent.
 
 # Dernières infos
 
-Christian et Emmanuel organisent [un nouvel atelier de groupe en ligne, «
-Partir à la découverte de soi »]({% link
-_posts/2021-03-01-partir-a-la-decouverte-de-soi.md %}). Il sera plus conséquent
-que les précédents : le même groupe de participant·es se retrouvera sur Zoom
-pendant cinq sessions de sept heures chacune, tous les lundis du 19 avril au 10
-mai 2021, de 9h00 à 17h30 (CET / GMT+1)
+Christian et Emmanuel organisent
+[un atelier de groupe à Bordeaux, « Partir à la découverte de soi »]({% link
+_posts/2021-09-01-partir-a-la-decouverte-de-soi-bordeaux.md %}). Il
+aura lieu du lundi 25 au vendredi 29 octobre 2021, de 9h00 à 17h30.
 
-[Plus d'informations sur l'atelier]({% link _posts/2021-03-01-partir-a-la-decouverte-de-soi.md %})
+[Plus d'informations sur l'atelier]({% link
+_posts/2021-09-01-partir-a-la-decouverte-de-soi-bordeaux.md %})
