@@ -26,15 +26,3 @@ l'approche thérapeutique développée par [Virginia Satir]({% link virginia.md
 Ce site web a pour objet de partager [diverses ressources sur le modèle
 Satir]({% link blog.html %}) et de faire la promotion des ateliers
 d'introduction et d'approfondissement que Christian et Emmanuel organisent.
-
-&nbsp;
-
-# Dernières infos
-
-Christian et Emmanuel organisent
-[un atelier de groupe à Bordeaux, « Partir à la découverte de soi »]({% link
-_posts/2021-09-01-partir-a-la-decouverte-de-soi-bordeaux.md %}). Il
-aura lieu du lundi 25 au vendredi 29 octobre 2021, de 9h00 à 17h30.
-
-[Plus d'informations sur l'atelier]({% link
-_posts/2021-09-01-partir-a-la-decouverte-de-soi-bordeaux.md %})
