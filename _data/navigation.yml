@@ -1,8 +1,10 @@
 - name: Home
   link: /
-- name: Articles
-  link: /blog.html
+- name: Nos ateliers
+  link: /ateliers.html
 - name: Virginia Satir
   link: /virginia.html
 - name: Qui nous sommes
   link: /equipe.html
+- name: Articles
+  link: /blog.html

@@ -4,6 +4,8 @@ host: 0.0.0.0
 collections:
   authors:
     output: true
+  workshops:
+    output: true
 
 defaults:
   - scope:
@@ -14,6 +16,11 @@ defaults:
   - scope:
       path: ""
       type: "posts"
+    values:
+      layout: "post"
+  - scope:
+      path: ""
+      type: "workshops"
     values:
       layout: "post"
   - scope:
