@@ -10,10 +10,13 @@ modèle développé par Virginia Satir et démarrer son exploration personnelle.
 
 ```
 Prochain atelier :
+
 Animé par Christian Lapointe et Emmanuel Gaillot
 Sur 5 journées consécutives du lundi 9 au vendredi 13 mai 2022
 9h00 - 17h30
-À Montréal, Québec (lieu exact à venir)
+
+Au Centre St-Pierre
+1212, rue Panet, Montréal, Québec H2L 2Y7
 
 Prix : À partir de 550,00 $ (voir plus bas)
 ```
