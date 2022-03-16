@@ -21,6 +21,9 @@ Au Centre St-Pierre
 Prix : À partir de 550,00 $ (voir plus bas)
 ```
 
+[S'inscrire](https://www.eventbrite.com/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-298466610667)
+{: .bouton}
+
 « _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
 ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
 aussi revisiter les ressources déjà intégrées : délaisser ce qui n'est plus
@@ -88,6 +91,8 @@ Deux options au choix :
 - prix standard : 550,00 $ (+taxes)
 - prix solidaire : 700,00 $ (+taxes) – pour aider à financer d’autres participations
 
-Inscriptions par courriel : <a
-href="mailto:ateliers@changer-grandir.org">ateliers@changer-grandir.org</a>
+[S'inscrire](https://www.eventbrite.com/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-298466610667)
+{: .bouton}
+
+Contact : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 

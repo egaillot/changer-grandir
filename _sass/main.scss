@@ -162,6 +162,26 @@ nav li.page_courante {
   list-style-type: square;
 }
 
+.bouton {
+  display: flex;
+  justify-content: center;
+
+  margin-bottom: 2em;
+}
+
+.bouton a {
+  padding: 0.5em 1em;
+  background: #0a6379;
+  box-shadow: 3px 3px 5px #0002;
+
+  text-decoration: none;
+  color: #fffd;
+}
+
+.bouton a:hover {
+  background: #0a6379dd;
+}
+
 .liste-items a {
   text-decoration: none;
   color: #0a6379;
