@@ -12,17 +12,13 @@ modèle développé par Virginia Satir et démarrer son exploration personnelle.
 Prochain atelier :
 
 Animé par Christian Lapointe et Emmanuel Gaillot
-Sur 5 journées consécutives du lundi 9 au vendredi 13 mai 2022
+Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 9h00 - 17h30
 
-Au Centre St-Pierre
-1212, rue Panet, Montréal, Québec H2L 2Y7
+En France (lieu exact restant à annoncer)
 
-Prix : À partir de 550,00 $ (voir plus bas)
+Prix : À partir de 630,00 € TTC (voir plus bas)
 ```
-
-[S'inscrire](https://www.eventbrite.com/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-298466610667)
-{: .bouton}
 
 « _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
 ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
@@ -88,11 +84,8 @@ adapté à votre budget.
 
 Deux options au choix :
 
-- prix standard : 550,00 $ (+taxes)
-- prix solidaire : 700,00 $ (+taxes) – pour aider à financer d’autres participations
-
-[S'inscrire](https://www.eventbrite.com/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-298466610667)
-{: .bouton}
+- prix standard : 630,00 € TTC
+- prix solidaire : 840,00 € TTC – pour aider à financer d’autres participations
 
 Contact : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 
