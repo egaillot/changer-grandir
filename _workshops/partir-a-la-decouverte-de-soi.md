@@ -15,7 +15,7 @@ Animé par Christian Lapointe et Emmanuel Gaillot
 Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 9h00 - 17h30
 
-En France (lieu exact restant à annoncer)
+À Nantes (lieu exact restant à annoncer)
 
 Prix : À partir de 630,00 € TTC (voir plus bas)
 ```
@@ -87,5 +87,5 @@ Deux options au choix :
 - prix standard : 630,00 € TTC
 - prix solidaire : 840,00 € TTC – pour aider à financer d’autres participations
 
-Contact : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
+Contact et inscriptions : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 
