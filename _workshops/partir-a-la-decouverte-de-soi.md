@@ -8,9 +8,9 @@ undated: true
 Un atelier en présentiel ou en distanciel sur 5 journées afin de découvrir le
 modèle développé par Virginia Satir et démarrer son exploration personnelle.
 
-```
-Prochain atelier :
+### Prochains ateliers :
 
+```
 Animé par Christian Lapointe et Emmanuel Gaillot
 Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 9h00 - 17h30
@@ -18,6 +18,17 @@ Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 À Nantes (lieu exact restant à annoncer)
 
 Prix : À partir de 630,00 € TTC (voir plus bas)
+```
+
+```
+Animé par Christian Lapointe et Emmanuel Gaillot
+Sur 5 journées consécutives du lundi 14 au vendredi 18 novembre 2022
+9h00 - 17h30
+
+Au Centre St-Pierre
+1212, rue Panet, Montréal, Québec H2L 2Y7
+
+Prix : 500,00 $ (+taxes)
 ```
 
 « _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
