@@ -255,7 +255,9 @@ h1 {
 .item .infos-item {
   position: absolute;
   right: 1em;
-  top: 60%;
+  bottom: 10%;
+  max-width: 80%;
+
   padding: 0.5em;
   background: #fffa;
   box-shadow: 10px 10px 15px #0002;

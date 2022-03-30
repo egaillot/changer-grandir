@@ -1,12 +1,12 @@
 ---
-title: « Partir à la découverte de soi »
+title: Partir à la découverte de soi avec Satir &#58; « Les Premiers Pas »
 image: /assets/images/20210301-chemin.png
 image_title: Qui regarde qui ?
 undated: true
 ---
 
-Un atelier en présentiel ou en distanciel sur 5 journées afin de découvrir le
-modèle développé par Virginia Satir et démarrer son exploration personnelle.
+Un atelier sur cinq journées afin de découvrir le modèle développé par Virginia
+Satir et démarrer son exploration personnelle.
 
 ### Prochains ateliers :
 
