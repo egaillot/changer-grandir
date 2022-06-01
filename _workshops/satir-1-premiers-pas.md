@@ -15,10 +15,14 @@ Animé par Christian Lapointe et Emmanuel Gaillot
 Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 9h00 - 17h30
 
-À Nantes (lieu exact restant à annoncer)
+Chez Convivere
+15 rue Yves Bodiguel
+44000 Nantes
 
-Prix : À partir de 630,00 € TTC (voir plus bas)
+Prix : À partir de 630,00 € TTC
 ```
+
+[S'inscrire](https://www.eventbrite.fr/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-les-premiers-pas-354518092157)
 
 ```
 Animé par Christian Lapointe et Emmanuel Gaillot
@@ -92,11 +96,6 @@ l’argent ne doit pas être un obstacle qui empêche d’accéder à ce qu’on
 apprendre. Ainsi, si les prix que nous demandons sont trop élevés, sentez-vous
 bienvenu·es de nous contacter. Nous déterminerons avec vous un prix qui sera
 adapté à votre budget.
-
-Deux options au choix :
-
-- prix standard : 630,00 € TTC
-- prix solidaire : 840,00 € TTC – pour aider à financer d’autres participations
 
 Contact et inscriptions : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 
