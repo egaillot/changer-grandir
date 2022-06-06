@@ -16,13 +16,13 @@ Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
 9h00 - 17h30
 
 Chez Convivere
-15 rue Yves Bodiguel
-44000 Nantes
+15 rue Yves Bodiguel, 44000 Nantes
+France
 
 Prix : À partir de 630,00 € TTC
 ```
 
-[S'inscrire](https://www.eventbrite.fr/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-les-premiers-pas-354518092157)
+{% include bouton_inscription_weezevent.html chemin="ticket/E856032/?code=15152&locale=fr-FR&width_auto=1" %}
 
 ```
 Animé par Christian Lapointe et Emmanuel Gaillot
@@ -31,9 +31,12 @@ Sur 5 journées consécutives du lundi 14 au vendredi 18 novembre 2022
 
 Au Centre St-Pierre
 1212, rue Panet, Montréal, Québec H2L 2Y7
+Canada
 
 Prix : 500,00 $ (+taxes)
 ```
+
+{% include bouton.html titre="Se pré-inscrire" url="https://www.eventbrite.fr/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-les-premiers-pas-sur-5-jours-354678431737" %}
 
 « _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
 ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
@@ -97,5 +100,5 @@ apprendre. Ainsi, si les prix que nous demandons sont trop élevés, sentez-vous
 bienvenu·es de nous contacter. Nous déterminerons avec vous un prix qui sera
 adapté à votre budget.
 
-Contact et inscriptions : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
+Contact : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 
