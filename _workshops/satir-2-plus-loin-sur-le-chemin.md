@@ -3,6 +3,7 @@ title: Partir à la découverte de soi avec Satir &#58; « Plus loin sur le che
 image: /assets/images/satir_2_plus_loin_sur_le_chemin.jpg
 image_title: Une fleur au bout de chaque branche
 undated: true
+workshop_category: intensif
 ---
 
 Utiliser les briques de base du modèle Satir pour apprécier le chemin parcouru,
