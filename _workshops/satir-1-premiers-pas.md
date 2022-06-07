@@ -3,6 +3,7 @@ title: Partir à la découverte de soi avec Satir &#58; « Les Premiers Pas »
 image: /assets/images/20210301-chemin.png
 image_title: Qui regarde qui ?
 undated: true
+workshop_category: intensif
 ---
 
 Un atelier sur cinq journées afin de découvrir le modèle développé par Virginia
@@ -22,7 +23,7 @@ France
 Prix : À partir de 630,00 € TTC
 ```
 
-{% include bouton_inscription_weezevent.html chemin="ticket/E856032/?code=15152&locale=fr-FR&width_auto=1" %}
+{% include bouton_inscription_weezevent.html chemin="ticket/E856032/?locale=fr-FR&width_auto=1" %}
 
 ```
 Animé par Christian Lapointe et Emmanuel Gaillot

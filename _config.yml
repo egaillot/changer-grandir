@@ -6,6 +6,7 @@ collections:
     output: true
   workshops:
     output: true
+  workshop_categories:
 
 defaults:
   - scope:
