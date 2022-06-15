@@ -8,3 +8,6 @@
   link: /equipe.html
 - name: Articles
   link: /blog.html
+- name: Infolettre
+  link: /infolettre.html
+  highlight: true

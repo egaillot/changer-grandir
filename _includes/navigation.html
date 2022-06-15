@@ -1,8 +1,9 @@
 <nav>
   <ul>
   {% for item in site.data.navigation %}
-    <li {% if page.url == item.link %}class="page_courante"{% endif %}>
-      <a href="{{ item.link | relative_url }}">
+    <li class="{% if page.url == item.link %}page-courante {% endif %}{% if item.highlight %}mise-en-avant {% endif %}">
+      <a
+        href="{{ item.link | relative_url }}">
         {{ item.name }}
       </a>
     </li>

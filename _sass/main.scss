@@ -48,6 +48,17 @@ body {
   width: 900px;
 }
 
+input {
+  font-size: inherit;
+  font-family: inherit;
+  color: inherit;
+}
+
+input[type='email'], input[type='text'] {
+  padding: 0.5em;
+  background: #f2d64b60;
+}
+
 .conteneur {
   height: 100%;
   position: relative;
@@ -121,8 +132,20 @@ nav li {
   padding: 0.5em 2em 0.5em 0.5em;
 }
 
-nav li.page_courante {
+nav li.page-courante {
   background: #fff5;
+}
+
+nav li.mise-en-avant {
+  margin: 2em 0;
+}
+
+nav li.mise-en-avant a {
+  color: #f2d64b;
+}
+
+nav li.mise-en-avant a:hover {
+  color: #fabe54;
 }
 
 .zone-principale {
@@ -166,16 +189,19 @@ nav li.page_courante {
   margin: -1em 1em 5em 4em;
 }
 
-.bouton a {
+.bouton a, input[type='submit'] {
+  cursor: pointer;
+
   padding: 0.5em 1em;
   background: #0a6379;
+  border: none;
   box-shadow: 3px 3px 5px #0002;
 
   text-decoration: none;
   color: #fffd;
 }
 
-.bouton a:hover {
+.bouton a:hover, input[type='submit']:hover {
   background: #0a6379dd;
 }
 
@@ -275,6 +301,16 @@ h2 {
   font-family: Oswald;
   font-weight: 400;
 }
+
+.listmonk-form {
+  display: flex;
+  column-gap: 4em;
+}
+
+.notes-additionnelles {
+  font-style: italic;
+  font-size: x-small;
+};
 
 footer {
   grid-column: 1 / 5;
