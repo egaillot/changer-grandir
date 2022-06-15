@@ -20,6 +20,7 @@ Atelier en ligne, sur Zoom
 
 Prix : participation libre
 ```
+{% include bouton_inscription_weezevent.html chemin="ticket/E860395/?locale=fr-FR&width_auto=1" %}
 
 Virginia Satir utilisait fréquemment les méditations guidées pour parler
 directement à notre sagesse intuitive.  Elle s'aidait de métaphores riches en
