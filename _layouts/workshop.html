@@ -1,0 +1,36 @@
+---
+layout: item
+---
+
+{{ page.lead }}
+
+{% assign future_events = site.events | where: "workshop", page.name | where_exp: "event", "event.date > site.time" %}
+
+{% if future_events.size > 0 %}
+<h3>Prochains ateliers :</h3>
+{% endif %}
+
+{% for event in future_events %}
+
+  <div class="description-evenement">
+    Animé par Christian Lapointe et Emmanuel Gaillot<br>
+    {{ event.date_and_duration }}<br>
+    {{ event.time }}<br>
+    <br>
+    {{ event.location }}<br>
+    <br>
+    Prix: {{ event.price }}<br>
+  </div>
+
+  {% if event.registration_url %}
+    {% if event.pre_registration %}
+      {% include bouton.html titre="Se pré-inscrire" url=event.registration_url %}
+    {% else %}
+      {% include bouton_inscription_weezevent.html chemin=event.registration_url %}
+    {% endif %}
+  {% endif %}
+{% endfor %}
+
+{{ content }}
+
+<div class="logo"></div>

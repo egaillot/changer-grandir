@@ -1,27 +1,12 @@
 ---
+name: kit_entretien
 title: Le Kit d'entretien de l'estime de soi
 image: /assets/images/kit_entretien_estime_soi.jpg
 image_title: S'épanouir à l'intérieur comme à l'extérieur
+lead: Découvrir le Kit d'entretien de l'estime de soi développé par Virginia Satir.
 undated: true
 workshop_category: court
 ---
-
-
-Découvrir le Kit d'entretien de l'estime de soi développé par Virginia Satir.
-
-### Prochains ateliers :
-
-```
-Animé par Christian Lapointe et Emmanuel Gaillot
-Samedi 9 juillet 2022
-9h30 - 12h30
-
-Atelier en ligne, sur Zoom
-
-Prix : participation libre
-```
-{% include bouton_inscription_weezevent.html chemin="ticket/E860395/?locale=fr-FR&width_auto=1" %}
-
 Virginia Satir utilisait fréquemment les méditations guidées pour parler
 directement à notre sagesse intuitive.  Elle s'aidait de métaphores riches en
 symboles pour transmettre son approche dans un langage que tout le monde

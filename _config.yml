@@ -7,6 +7,7 @@ collections:
   workshops:
     output: true
   workshop_categories:
+  events:
 
 defaults:
   - scope:
@@ -23,7 +24,7 @@ defaults:
       path: ""
       type: "workshops"
     values:
-      layout: "post"
+      layout: "workshop"
   - scope:
       path: ""
     values:
