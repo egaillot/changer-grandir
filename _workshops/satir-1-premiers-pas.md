@@ -1,44 +1,12 @@
 ---
+name: premiers_pas
 title: Partir à la découverte de soi avec Satir &#58; « Les Premiers Pas »
 image: /assets/images/20210301-chemin.png
 image_title: Qui regarde qui ?
+lead: Un atelier sur cinq journées afin de découvrir le modèle développé par Virginia Satir et démarrer son exploration personnelle.
 undated: true
 workshop_category: intensif
 ---
-
-Un atelier sur cinq journées afin de découvrir le modèle développé par Virginia
-Satir et démarrer son exploration personnelle.
-
-### Prochains ateliers :
-
-```
-Animé par Christian Lapointe et Emmanuel Gaillot
-Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
-9h00 - 17h30
-
-Chez Convivere
-15 rue Yves Bodiguel, 44000 Nantes
-France
-
-Prix : À partir de 630,00 € TTC
-```
-
-{% include bouton_inscription_weezevent.html chemin="ticket/E856032/?locale=fr-FR&width_auto=1" %}
-
-```
-Animé par Christian Lapointe et Emmanuel Gaillot
-Sur 5 journées consécutives du lundi 14 au vendredi 18 novembre 2022
-9h00 - 17h30
-
-Au Centre St-Pierre
-1212, rue Panet, Montréal, Québec H2L 2Y7
-Canada
-
-Prix : 500,00 $ (+taxes)
-```
-
-{% include bouton.html titre="Se pré-inscrire" url="https://www.eventbrite.fr/e/inscription-partir-a-la-decouverte-de-soi-avec-satir-les-premiers-pas-sur-5-jours-354678431737" %}
-
 « _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
 ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
 aussi revisiter les ressources déjà intégrées : délaisser ce qui n'est plus

@@ -1,27 +1,12 @@
 ---
+name: plus_loin
 title: Partir à la découverte de soi avec Satir &#58; « Plus loin sur le chemin&nbsp;»
 image: /assets/images/satir_2_plus_loin_sur_le_chemin.jpg
 image_title: Une fleur au bout de chaque branche
+lead: Utiliser les briques de base du modèle Satir pour apprécier le chemin parcouru, tout en se laissant la possibilité de choisir une nouvelle direction.
 undated: true
 workshop_category: intensif
 ---
-
-Utiliser les briques de base du modèle Satir pour apprécier le chemin parcouru,
-tout en se laissant la possibilité de choisir une nouvelle direction.
-
-### Prochains ateliers :
-
-```
-Animé par Christian Lapointe et Emmanuel Gaillot
-Sur 5 journées consécutives du lundi 17 au vendredi 21 avril 2023
-9h00 - 17h30
-
-Au Centre St-Pierre
-1212, rue Panet, Montréal, Québec H2L 2Y7
-
-Prix : 500,00 $ (+taxes)
-```
-
 Cet atelier présente un processus qui nous amène à porter un regard d'adulte
 sur l'expérience passée en tant qu'enfant, et à élargir notre compréhension de
 ce qui s'est passé. De cette compréhension peut naître à la fois une
