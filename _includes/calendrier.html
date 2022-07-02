@@ -1,0 +1,10 @@
+{% assign future_events = site.events | where_exp: 'event', 'event.date > site.time' %}
+<h2>Prochains ateliers</h2>
+<ul>
+{% for event in future_events %}
+  {% assign workshop = site.workshops | where: 'name', event.workshop | first %}
+  <li>
+  <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a> - {{ event.date_and_duration }}
+  </li>
+{% endfor %}
+</ul>

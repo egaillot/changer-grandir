@@ -27,4 +27,6 @@ Ce site web a pour objet de partager [diverses ressources sur le modèle
 Satir]({% link blog.html %}) et de faire la promotion des ateliers
 d'introduction et d'approfondissement que Christian et Emmanuel organisent.
 
+{% include calendrier.html %}
+
 {% include inscription_infolettre.html %}
