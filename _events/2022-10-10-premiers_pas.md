@@ -1,6 +1,6 @@
 ---
 workshop: premiers_pas
-date_and_duration: Sur 5 journées consécutives du lundi 10 au vendredi 14 octobre 2022
+date_and_duration: 10 octobre 2022 - 14 octobre 2022
 time: 9h00 - 17h30
 location: Chez Convivere<br>15 rue Yves Bodiguel, 44000 Nantes<br>France
 price: À partir de 630,00 € TTC
