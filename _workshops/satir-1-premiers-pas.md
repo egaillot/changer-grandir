@@ -1,6 +1,6 @@
 ---
 name: premiers_pas
-title: Partir à la découverte de soi avec Satir &#58; « Les Premiers Pas »
+title: Partir à la découverte de soi avec Satir &#58; « Les Premiers Pas »
 image: /assets/images/20210301-chemin.png
 image_title: Qui regarde qui ?
 lead: Un atelier sur cinq journées afin de découvrir le modèle développé par Virginia Satir et démarrer son exploration personnelle.
