@@ -8,11 +8,10 @@ layout: default
     <div class="infos-item">
       <h1>{{ page.title }}</h1>
       {% unless page.undated %}
-        {% assign item = page %}
-        {% include presente_date.html %}
+        {% include presente_date.html item=page %}
         –
       {% endunless %}
-      {% include presente_auteurs.html %}
+      {% include presente_auteurs.html item=page %}
     </div>
   </div>
 

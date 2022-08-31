@@ -10,9 +10,8 @@ title: Articles
       <li>
         <div class="infos-item">
           <h2><a href="{{ post.url | relative_url }}">{{ post.title }}</a></h2>
-          {% assign item = post %}
-          {% include presente_date.html %} –
-          {% include presente_auteurs.html %}
+          {% include presente_date.html item=post %} –
+          {% include presente_auteurs.html item=post %}
         </div>
         <div class="resume-item">
           <img src="{{ post.image | relative_url }}">
