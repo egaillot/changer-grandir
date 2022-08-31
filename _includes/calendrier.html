@@ -3,8 +3,30 @@
 <ul>
 {% for event in future_events %}
   {% assign workshop = site.workshops | where: 'name', event.workshop | first %}
-  <li>
-  <a href="{{ workshop.url | relative_url }}">{{ workshop.title }}</a> - {{ event.date_and_duration }}
+  <li class="carte-atelier">
+    <div class="date">{% include presente_date.html item=event %}</div>
+    <div class="image"><img src="{{ workshop.image | relative_url }}"></div>
+    <div class="description">
+      <div class="titre-atelier">{{ workshop.title }}</div>
+      <div class="date-et-duree">{{ event.date_and_duration }}</div>
+      <div class="horaires">{{ event.time }}</div>
+      <div class="lieu">{{ event.location }}</div>
+      <div class="prix">{{ event.price }}</div>
+      <div>
+        {% assign url_atelier = workshop.url | relative_url %}
+        {% include bouton.html titre="En savoir plus" url=url_atelier %}
+
+        {% if event.registration_url %}
+          {% if event.pre_registration %}
+            {% include bouton.html titre="Se pré-inscrire" url=event.registration_url %}
+          {% else %}
+            {% include bouton_inscription_weezevent.html chemin=event.registration_url %}
+          {% endif %}
+        {% endif %}
+      </div>
+    </div>
   </li>
+  <a href="{{ workshop.url | relative_url }}">
+  </a>
 {% endfor %}
 </ul>
