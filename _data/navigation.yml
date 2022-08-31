@@ -1,4 +1,4 @@
-- name: Home
+- name: Accueil
   link: /
 - name: Nos ateliers
   link: /ateliers.html
@@ -6,7 +6,7 @@
   link: /virginia.html
 - name: Qui nous sommes
   link: /equipe.html
-- name: Articles
+- name: Actualités et publications
   link: /blog.html
 - name: Infolettre
   link: /infolettre.html
