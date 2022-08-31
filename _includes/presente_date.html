@@ -1,6 +1,8 @@
-{% assign date_item = item.date %}
-{{ date_item | date: "%-d" }}
+{% assign date_item = include.item.date %}
+<span class="jour">{{ date_item | date: "%-d" }}</span>
+
 {% assign month = date_item | date: "%-m" %}
+<span class="mois">
 {% case month %}
   {% when '1' %}janvier
   {% when '2' %}février
@@ -15,4 +17,6 @@
   {% when '11' %}novembre
   {% when '12' %}décembre
 {% endcase %}
-{{ date_item | date: "%Y" }}
+</span>
+
+<span class="annee">{{ date_item | date: "%Y" }}</span>

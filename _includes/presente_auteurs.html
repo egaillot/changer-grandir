@@ -1,4 +1,4 @@
-{% assign authors = item.authors %}
+{% assign authors = include.item.authors %}
 {% for author in authors %}
   {% assign current_author = site.authors | where: "nick", author | first %}
   {% unless forloop.first %}
