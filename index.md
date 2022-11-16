@@ -8,8 +8,8 @@ title: Changer-Grandir
 
 # Bienvenue !…
 
-_« En tant que thérapeute, je suis une compagne de route. J'essaie d'aider les autres à
-être à l'écoute de leur propre sagesse. »_ (Virginia Satir)
+_« En tant que thérapeute, je suis une compagne de route. J'essaie d'aider les
+autres à être à l'écoute de leur propre sagesse. »_ (Virginia Satir)
 
 &nbsp;
 
@@ -23,9 +23,15 @@ manquer est peut-être le simple fait d'en prendre conscience.
 l'approche thérapeutique développée par [Virginia Satir]({% link virginia.md
 %}) et de la rendre accessible à un public francophone.
 
+Cette approche dépasse largement le cadre d'intervention de la famille. Elle se
+révèle tout aussi pertinente pour des équipes professionnelles, des structures
+de direction, et des groupes de personnes au sens large qui souhaitent
+s'épanouir davantage – en prenant en compte ce qui est important pour soi, et
+important pour chacun·e des autres.
+
 Ce site web a pour objet de partager [diverses ressources sur le modèle
-Satir]({% link blog.html %}) et de faire la promotion des ateliers
-d'introduction et d'approfondissement que Christian et Emmanuel organisent.
+Satir]({% link blog.html %}) et de faire la promotion des [ateliers]({% link
+ateliers.html %}) que nous organisons sur la base de cette approche.
 
 {% include calendrier.html %}
 
