@@ -383,8 +383,8 @@ footer {
   grid-column: 1 / 5;
 
   display: flex;
-  flex-direction: row;
   align-items: center;
+  justify-content: space-between;
 
   padding: 2em;
   background: #0f252d;
@@ -403,4 +403,18 @@ footer a {
 
 footer a:hover {
   color: #f2d64b;
+}
+
+footer .changer-grandir {
+  display: flex;
+  align-items: center;
+}
+
+footer .instagram {
+  display: block;
+
+  width: 4em;
+  height: 4em;
+
+  background: url('../images/logo_instagram.png') no-repeat center/100%;
 }
