@@ -386,14 +386,10 @@ footer {
   align-items: center;
   justify-content: space-between;
 
-  padding: 2em;
+  padding: 2em 5em;
   background: #0f252d;
   color: #fabe5488;
   font-size: 0.7em;
-}
-
-footer div {
-  margin: 0 3em;
 }
 
 footer a {
@@ -408,13 +404,26 @@ footer a:hover {
 footer .changer-grandir {
   display: flex;
   align-items: center;
+  column-gap: 2em;
 }
 
-footer .instagram {
+footer .reseaux-sociaux {
+  display: flex;
+  align-items: center;
+  column-gap: 1em;
+}
+
+.reseaux-sociaux a {
   display: block;
 
-  width: 4em;
-  height: 4em;
+  width: 3em;
+  height: 3em;
+}
 
+.reseaux-sociaux .instagram {
   background: url('../images/logo_instagram.png') no-repeat center/100%;
+}
+
+.reseaux-sociaux .linkedin {
+  background: url('../images/logo_linkedin.png') no-repeat center/100%;
 }
