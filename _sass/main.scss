@@ -160,6 +160,17 @@ nav li.mise-en-avant a:hover {
   color: #0a6379;
 }
 
+.contenu blockquote {
+  position: relative;
+  margin: 3em 1em 3em 4em;
+  padding: 1em 2em;
+  background: #fff4;
+}
+
+.contenu blockquote p {
+  margin: 0;
+}
+
 .contenu a {
   color: #0f252ddd;
   text-decoration: underline;

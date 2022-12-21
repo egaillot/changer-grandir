@@ -8,10 +8,6 @@ title: Changer-Grandir
 
 # Bienvenue !…
 
-_« En tant que thérapeute, je suis une compagne de route. J'essaie d'aider les
-autres à être à l'écoute de leur propre sagesse. »_ (Virginia Satir)
-
-&nbsp;
 
 Notre condition d'être humain est de grandir tout au long de notre existence.
 Même s'il nous arrive de le perdre de vue, nous avons déjà toutes les
@@ -22,6 +18,9 @@ manquer est peut-être le simple fait d'en prendre conscience.
 «&nbsp;Changer / Grandir&nbsp;» dans l'intention commune de promouvoir
 l'approche thérapeutique développée par [Virginia Satir]({% link virginia.md
 %}) et de la rendre accessible à un public francophone.
+
+> « _En tant que thérapeute, je suis une compagne de route. J'essaie d'aider les
+autres à être à l'écoute de leur propre sagesse._ » (Virginia Satir)
 
 Cette approche dépasse largement le cadre d'intervention de la famille. Elle se
 révèle tout aussi pertinente pour des équipes professionnelles, des structures
