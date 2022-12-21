@@ -5,7 +5,7 @@ image: /assets/images/kit_entretien_estime_soi.jpg
 image_title: S'épanouir à l'intérieur comme à l'extérieur
 lead: Découvrir le Kit d'entretien de l'estime de soi développé par Virginia Satir.
 undated: true
-workshop_category: court
+workshop_category: decouverte
 ---
 Virginia Satir utilisait fréquemment les méditations guidées pour parler
 directement à notre sagesse intuitive.  Elle s'aidait de métaphores riches en

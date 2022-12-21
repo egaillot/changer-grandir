@@ -5,7 +5,7 @@ image: /assets/images/escapade_satir.jpg
 image_title: Ce qui se cache presque derrière les arbres
 lead: Prendre un temps pour échapper aux habitudes de la vie quotidienne.
 undated: true
-workshop_category: court
+workshop_category: decouverte
 ---
 
 Le temps d'un atelier d'une demi-journée en présentiel, nous vous invitons au

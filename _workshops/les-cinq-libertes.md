@@ -5,7 +5,7 @@ image: /assets/images/20220323-cinq_libertes.jpg
 image_title: Libre comme le soleil qui danse dans le ciel
 lead: Découvrir et s'approprier les cinq libertés recensées par Virginia Satir.
 undated: true
-workshop_category: court
+workshop_category: decouverte
 ---
 Cet atelier prend comme point de départ le poème de Virginia Satir intitulé [«
 Les Cinq Libertés »]({% link _posts/2022-03-23-cinq-libertes.md %}) et invite

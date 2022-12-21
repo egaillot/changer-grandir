@@ -1,4 +1,4 @@
 ---
-name: court
-description: 'Les ateliers courts'
+name: decouverte
+description: 'Les ateliers « découverte »'
 ---
