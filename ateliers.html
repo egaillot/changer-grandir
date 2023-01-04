@@ -19,7 +19,8 @@ title: Nos ateliers
   </p>
 
   {% for category in site.workshop_categories %}
-    <h2>{{ category.description }}</h2>
+    <h2 class='category-description'>{{ category.description }}</h2>
+    {{category.subtitle }}
 
     <ul>
       {% assign workshops = site.workshops | where: "workshop_category", category.name %}

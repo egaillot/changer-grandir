@@ -1,4 +1,5 @@
 ---
 name: intensif
-description: 'Les ateliers intensifs'
+description: Partir à la découverte de soi
+subtitle: Cinq jours pour explorer le modèle Satir
 ---

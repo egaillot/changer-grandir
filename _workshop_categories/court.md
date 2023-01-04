@@ -1,4 +1,5 @@
 ---
 name: decouverte
-description: 'Les ateliers « découverte »'
+description: Une parenthèse dans le quotidien
+subtitle: Une demi-journée pour aborder un sujet
 ---
