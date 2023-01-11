@@ -1,5 +1,5 @@
 {% assign future_events = site.events | where_exp: 'event', 'event.date > site.time' %}
-<h2>Prochains ateliers</h2>
+<h2><a href="/ateliers.html">Prochains ateliers</a></h2>
 <ul>
 {% for event in future_events %}
   {% assign workshop = site.workshops | where: 'name', event.workshop | first %}
