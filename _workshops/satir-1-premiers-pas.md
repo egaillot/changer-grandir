@@ -12,7 +12,8 @@ ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
 aussi revisiter les ressources déjà intégrées : délaisser ce qui n'est plus
 pertinent pour soi, choisir d'honorer ce qui l'est encore. C'est enfin porter
 un regard d'appréciation sur le passé et les compétences développées au contact
-de sa famille et de son entourage.
+de sa famille et de son entourage. En un mot comme en mille, c'est se découvrir
+davantage pour mieux se choisir.
 
 ### Public visé
 
