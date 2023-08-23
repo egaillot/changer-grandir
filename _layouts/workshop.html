@@ -20,7 +20,16 @@ layout: item
     {{ event.location }}<br>
     <br>
     Prix : {{ event.price }}<br>
+
+    {% if event.qualiopi %}
+      <div class="info-qualiopi">
+        Afin de permettre une prise en charge financière au titre de la
+        formation professionnelle, cette formation est organisée en partenariat
+        avec un organisme de formation certifié Qualiopi.
+      </div>
+    {% endif %}
   </div>
+
 
   {% if event.registration_url %}
     {% if event.pre_registration %}
