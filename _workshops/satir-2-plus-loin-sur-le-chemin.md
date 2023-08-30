@@ -61,5 +61,5 @@ apprendre. Ainsi, si les prix que nous demandons sont trop élevés, sentez-vous
 bienvenu·es de nous contacter. Nous déterminerons avec vous un prix qui sera
 adapté à votre budget.
 
-Contact et inscriptions : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
+Contact : [ateliers@changer-grandir.org](mailto:ateliers@changer-grandir.org)
 
