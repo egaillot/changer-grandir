@@ -7,7 +7,7 @@ layout: item
 {% assign future_events = site.events | where: "workshop", page.name | where_exp: "event", "event.date > site.time" %}
 
 {% if future_events.size > 0 %}
-<h3>Prochains ateliers :</h3>
+<h3 id="prochains-ateliers">Prochains ateliers :</h3>
 {% endif %}
 
 {% for event in future_events %}
@@ -23,9 +23,9 @@ layout: item
 
     {% if event.qualiopi %}
       <div class="info-qualiopi">
-        Afin de permettre une prise en charge financière au titre de la
-        formation professionnelle, cette formation est organisée en partenariat
-        avec un organisme de formation certifié Qualiopi.
+        Changer-Grandir est partenaire d'Oddes Conseil, organisme de formation
+        certifié Qualiopi, permettant une prise en charge financière de cette
+        action au titre de la formation professionnelle.
       </div>
     {% endif %}
   </div>
@@ -41,5 +41,9 @@ layout: item
 {% endfor %}
 
 {{ content }}
+
+{% if future_events.size > 0 %}
+  <a href="#prochains-ateliers">Voir les prochains ateliers pour s'inscrire</a>
+{% endif %}
 
 <div class="logo"></div>

@@ -3,12 +3,28 @@ name: coaching_intentions_hypotheses
 title: Enrichir sa pratique de coaching avec l’approche de Virginia Satir
 image: /assets/images/coaching_intentions_hypotheses.jpg
 image_title: Explorer l'approche de Virginia Satir
-lead: Module 1 — mise en pratique des intentions et des hypothèses fondamentales de l’approche
+lead: Module 1 — Appliquer les hypothèses fondamentales de l'approche Satir à une pratique de coaching
 undated: true
-workshop_category: etape
+workshop_category: pro
 ---
+Pendant ces deux journées, vous apprendrez à intégrer l'approche de Virginia
+Satir dans votre pratique de coaching. Cela vous permettra d'aider les
+personnes que vous accompagnez à mieux comprendre le contexte dans lequel elles
+évoluent et à leur proposer des outils simples pour faire des choix qui leur
+semblent plus appropriés.
+
 _« C’est possible d’apprendre quelque chose de nouveau à chaque fois qu’on pense
 que c’est possible. »_ (Virginia Satir)
+
+## Objectif du cours
+
+À la fin du cours, vous serez en mesure de :
+
+- Décrire les principes fondamentaux du Modèle de Développement Humain («Human Growth Model ») de Virginia Satir.
+- Expliquer les différentes phases du processus d’accompagnement proposé par ce modèle.
+- Savoir comment inclure une approche systémique et humaniste à leur pratique de coaching.
+
+## L'approche de Virginia Satir
 
 Virginia Satir a développé une approche thérapeutique dans laquelle elle voyait
 les humains comme des manifestations d’un système, plutôt que comme des
@@ -28,13 +44,6 @@ responsabilisation et de congruence.
 Dans ce cursus, vous découvrirez comment utiliser les outils développés par
 Virginia Satir et les inclure dans votre pratique de coaching ou
 d’accompagnement au sens large.
-
-## Objectif du cours
-
-À la fin du cours, vous serez en mesure de :
-— Décrire les principes fondamentaux du Modèle de Développement Humain («Human Growth Model ») de Virginia Satir.
-— Expliquer les différentes phases du processus d’accompagnement proposé par ce modèle.
-— Savoir comment inclure une approche systémique et humaniste à leur pratique de coaching.
 
 ## Contenu de la formation
 
