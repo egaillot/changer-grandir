@@ -207,6 +207,15 @@ nav li.mise-en-avant a:hover {
   color: #0a6379bb;
 }
 
+.contenu .categories-ateliers {
+  padding-top: 2em;
+}
+
+.contenu .categories-ateliers ul {
+  padding-left: 2em;
+  list-style-type: square;
+}
+
 .contenu-article ul {
   padding-left: 2em;
   list-style-type: square;
@@ -321,7 +330,7 @@ h2.category-description {
   box-shadow: 10px 10px 15px #0002;
 }
 
-.item .logo {
+.item .logo, .categories-ateliers .logo {
   margin: 3em auto 0;
   width: 5em;
 }

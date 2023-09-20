@@ -1,25 +1,35 @@
 ---
 title: Nos ateliers
 ---
+<h1>Nos ateliers</h1>
+
+<p>
+  Nos ateliers sont à destination de groupes divers, préalablement constitués
+  ou non, pour une participation ponctuelle ou récurrente.
+</p>
+
+<p>
+  Ils peuvent prendre la forme d'événements publics ou d'animations pour le
+  bénéfices d'équipes professionnelles et associatives. Indépendamment du
+  contexte, de la durée et de la forme, nous animons ces ateliers en honorant
+  ce qui est au cœur de l'approche de Virginia Satir : <b>créer et approfondir
+  des connexions, explorer de nouvelles facettes de soi</b>.
+</p>
+
+<div class="categories-ateliers">
+  <p>Nos ateliers sont regroupés par thèmes.</p>
+  <ul>
+  {% for category in site.workshop_categories %}
+    <li><a href="#{{ category.name }}">{{ category.description }}</a></li>
+  {% endfor %}
+  </ul>
+
+  <div class="logo"></div>
+</div>
 
 <div class='liste-items'>
-  <h1>Nos ateliers</h1>
-
-  <p>
-    Nos ateliers sont à destination de groupes divers, préalablement constitués
-    ou non, pour une participation ponctuelle ou récurrente.
-  </p>
-
-  <p>
-    Ils peuvent prendre la forme d'événements publics ou d'animations pour le
-    bénéfices d'équipes professionnelles et associatives. Indépendamment du
-    contexte, de la durée et de la forme, nous animons ces ateliers en honorant
-    ce qui est au cœur de l'approche de Virginia Satir : créer et approfondir
-    des connexions, explorer de nouvelles facettes de soi.
-  </p>
-
   {% for category in site.workshop_categories %}
-    <h2 class='category-description'>{{ category.description }}</h2>
+    <h2 id="{{ category.name }}" class="category-description">{{ category.description }}</h2>
     {{category.subtitle }}
 
     <ul>
