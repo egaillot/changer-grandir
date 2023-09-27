@@ -1,0 +1,28 @@
+---
+layout: default
+---
+
+<div class="item video">
+  <h1>{{ page.title }}</h1>
+  <div class="contenu-video">
+    <iframe src="{{ page.embed_url }}"
+            frameborder="0"
+            allow="autoplay; fullscreen; picture-in-picture"></iframe>
+  </div>
+
+
+  <div class="contenu-article">
+    <p>
+      {% unless page.undated %}
+        {% include presente_date.html item=page %}
+        –
+      {% endunless %}
+    </p>
+
+    {{ content }}
+
+    <div class="logo"></div>
+  </div>
+
+  <script src="https://player.vimeo.com/api/player.js"></script>
+</div>

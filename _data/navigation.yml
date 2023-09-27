@@ -8,6 +8,8 @@
   link: /equipe.html
 - name: Actualités et publications
   link: /blog.html
+- name: Vidéos
+  link: /videos.html
 - name: Infolettre
   link: /infolettre.html
   highlight: true

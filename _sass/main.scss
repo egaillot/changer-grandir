@@ -342,6 +342,19 @@ h2.category-description {
   font-weight: 400;
 }
 
+.item.video h1 {
+  margin-bottom: 1em;
+}
+
+.video .contenu-video {
+  height: 321px;
+}
+
+.contenu-video iframe {
+  width: 100%;
+  height: 100%;
+}
+
 .carte-atelier {
   display: flex;
   column-gap: 2em;
