@@ -53,7 +53,7 @@ Description du processus :
   passé (ré-actualiser le présent)
 - accueillir l’autre comme une personne unique plutôt que comme un rôle stéréotypé
 
-### Prix
+### Au sujet du prix
 
 Nous pensons à la fois que tout travail mérite une juste rémunération, et que
 l’argent ne doit pas être un obstacle qui empêche d’accéder à ce qu’on souhaite

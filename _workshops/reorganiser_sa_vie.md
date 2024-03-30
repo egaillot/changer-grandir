@@ -38,7 +38,7 @@ Cet atelier est à destination de toutes les personnes…
   il est difficile de maintenir une haute estime de soi, et
 - qui souhaitent grandir et s’épanouir malgré tout dans ce contexte de changement.
 
-### Prix
+### Au sujet du prix
 
 Nous pensons à la fois que tout travail mérite une juste rémunération, et que
 l’argent ne doit pas être un obstacle qui empêche d’accéder à ce qu’on souhaite

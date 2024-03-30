@@ -62,7 +62,7 @@ apprécions progressivement qui nous sommes vraiment.
 - Se donner la liberté et la légitimité de faire de nouveaux choix, qui
   honorent ce qu'on veut actuellement
 
-### Prix
+### Au sujet du prix
 
 Nous pensons à la fois que tout travail mérite une juste rémunération, et que
 l’argent ne doit pas être un obstacle qui empêche d’accéder à ce qu’on souhaite
