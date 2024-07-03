@@ -1,4 +1,4 @@
-FROM ruby:2.6
+FROM ruby:3.0
 
 # Install program to configure locales
 RUN apt-get update && \
@@ -25,4 +25,3 @@ RUN bundle install
 EXPOSE 4000
 
 COPY . .
-
