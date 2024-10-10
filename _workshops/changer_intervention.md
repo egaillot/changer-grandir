@@ -8,7 +8,7 @@ undated: true
 workshop_category: pro
 ---
 
-Durée : une journée (7 heures)
+Durée : une journée
 
 On sent parfois qu'on entame une conversation en sachant déjà comment elle va
 se terminer. L'interaction prend une couleur terne, qui manque de vitalité et
