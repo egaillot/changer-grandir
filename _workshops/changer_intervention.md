@@ -1,6 +1,6 @@
 ---
 name: changer_intervention
-title: Trois étapes pour changer une intervention qui tourne en rond
+title: Trois étapes pour changer une interaction qui tourne en rond
 image: /assets/images/changer_intervention.jpg
 image_title: Réhabiter son corps
 lead: Comment changer les ingrédients d'une interaction pour en changer la saveur
