@@ -274,7 +274,8 @@ PLATFORMS
 DEPENDENCIES
   github-pages!
   jekyll!
+  jekyll-feed!
   webrick!
 
 BUNDLED WITH
-   2.5.18
+   2.5.23
