@@ -39,3 +39,8 @@ defaults:
 
 kramdown:
   entity_output: :as_input
+
+plugins:
+  - jekyll-feed
+
+repository: egaillot/changer-grandir
