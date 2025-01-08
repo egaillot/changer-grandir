@@ -4,7 +4,7 @@ date_and_duration: <br>14-15 mars 2025<br>6-7 juin 2025<br>12-13 septembre 2025<
 time: 9h00 - 17h30
 location: Paris (et autres endroits où les participant·es choisiront de se retrouver)
 price: tarif libre (montant suggéré 1600 € TTC)
-registration_url:
+registration_url: https://my.weezevent.com/partir-a-la-decouverte-de-soi-version-longue
 ---
 
 
