@@ -1,5 +1,7 @@
 - name: Accueil
   link: /
+- name: Infolettre
+  link: /infolettre.html
 - name: Nos ateliers
   link: /ateliers.html
 - name: Virginia Satir
@@ -10,6 +12,6 @@
   link: /blog.html
 - name: Vidéos
   link: /videos.html
-- name: Infolettre
-  link: /infolettre.html
+- name: Partir à la découverte de soi
+  link: /workshops/satir-3-version-longue.html
   highlight: true
