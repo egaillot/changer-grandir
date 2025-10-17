@@ -12,9 +12,9 @@ RUN echo 'en_US.UTF-8 UTF-8' >> /etc/locale.gen && \
     locale-gen
 
 # Set default locale for the environment
-ENV LC_ALL C.UTF-8
-ENV LANG en_US.UTF-8
-ENV LANGUAGE en_US.UTF-8
+ENV LC_ALL=C.UTF-8
+ENV LANG=en_US.UTF-8
+ENV LANGUAGE=en_US.UTF-8
 
 WORKDIR /usr/src/app
 
