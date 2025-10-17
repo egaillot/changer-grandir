@@ -1,45 +1,42 @@
 ---
 name: version_longue
-title: Partir à la découverte de soi avec Satir &#58; « Version Longue »
+title: Partir à la découverte de soi avec Satir
 image: /assets/images/satir_version_longue-small.jpg
 image_title: La Longue Route
-lead: Explorer en profondeur le modèle développé par Virginia Satir pour des relations plus épanouissantes
+lead: Un atelier pour « devenir plus pleinement humain » – avec l'approche de Virgnia Satir, qu'elle a appelé le « Processus de Validation de l'Humain » (<i>Human Validation Process</i>).
 undated: true
 workshop_category: intensif
 ---
 
-« _Partir à la découverte de soi_ », c'est l'occasion de découvrir ses
-ressources personnelles encore inexploitées et apprendre à les utiliser. C'est
-aussi revisiter les ressources déjà intégrées : délaisser ce qui n'est plus
-pertinent pour soi, choisir d'honorer ce qui l'est encore. C'est enfin porter
-un regard d'appréciation sur le passé et les compétences développées au contact
-de sa famille et de son entourage. En un mot comme en mille, c'est se découvrir
-davantage pour mieux se choisir.
+# Une invitation à se découvrir autrement
 
-De cette découverte peut naître à la fois une appréciation et une compassion
-pour qui nous étions par le passé, tout en reconnaissant que nous avons
-aujourd’hui une autonomie bien plus grande pour décider de nos choix. Nous
-pouvons laisser le passé dans le passé, et regarder le présent avec un regard
-neuf, au contact de ce qu’on veut vraiment. Nous pouvons également voir l’autre
-comme une personne et pas seulement comme un rôle.
+Participer à cet atelier, c'est profiter avec d'autres d'un espace bienveillant
+pour se relier à soi-même, accueillir ses ressources, s'ouvrir à de nouvelles
+perspectives et faire des choix plus conscients.
 
-Cet atelier « en version longue » se déroule en seize jours répartis sur dix-huit
-mois. Nous animons les deux modules [« Les Premiers Pas »]({% link _workshops/satir-1-premiers-pas.md %})
-et [« Plus loin sur le chemin »]({% link _workshops/satir-2-plus-loin-sur-le-chemin.md %}),
-à raison de deux jours consécutifs tous les deux-trois mois. Il s'agit d'un
-temps privilégié pour intégrer en profondeur l'approche de Virginia Satir.
+Au fil de seize journées réparties sur une année, nous marchons ensemble le
+long d'un chemin bordé par les principes mis en avant par [Virginia Satir]({%
+link _pillars/virginia.md %}) : communication, congruence, estime de soi, [liberté]({%
+link _posts/2022-03-23-cinq-libertes.md %}).
 
-### Public visé
+# À qui cet atelier s'adresse-t-il ?
 
-Cet atelier s'adresse à toutes les personnes qui veulent prendre un temps pour
-elles pour explorer des sujets qui les touchent vraiment. Par exemple&nbsp;:
-- mieux se découvrir,
+Cet atelier accueille toutes les personnes qui veulent prendre un temps pour
+elles pour explorer des sujets qui les touchent vraiment, au sein d'un groupe
+de personnes qui se soutiennent mutuellement dans ces explorations. Celles-ci
+peuvent être, entre autres :
+- mieux se découvrir, au-delà des rôles et des habitudes,
 - apprendre à s'apprécier davantage,
 - être davantage à l'écoute de soi,
 - développer des relations riches avec les autres,
-- comprendre les limites que je pose et que je m'impose…
+- comprendre les limites que je pose et que je m'impose,
+- trouver mes propres repères de liberté et de congruence…
 
-### Intentions
+Nous accueillons également les personnes qui ont déjà entendu parler de
+Virginia Satir et qui voudraient en savoir plus sur son travail… mais aucune
+connaissance préalable à ce sujet n'est requise pour participer.
+
+# Intentions
 
 L'atelier est animé dans l'intention d'une invitation à
 
@@ -50,41 +47,49 @@ L'atelier est animé dans l'intention d'une invitation à
 - prendre des risques et explorer de nouvelles manières de vivre.
 - décider de ce qui est approprié pour soi, indépendamment du regard des autres
 - augmenter son estime de soi depuis une position propre à soi
-- être autonome dans ses choix, accepter d'en être à la fois auteur et
+- être autonome dans ses choix, accepter d'en être à la fois auteur·ice et
   responsable
-- accepter davantage qui on est et qui sont les autres,
-- découvrir une connexion plus authentique à l’autre
+- accueillir davantage qui on est et qui sont les autres,
+- découvrir une connexion plus authentique à l'autre
 - prendre davantage en compte à la fois ses aspirations propres, celles des
   autres, et le contexte dans lequel elles peuvent s'exprimer
 
+# Comment ça se passe ?
 
-### Déroulé
+L'atelier est découpé en huit sessions de deux jours consécutifs chacune,
+réparties sur douze mois. Pendant chaque atelier, un ou plusieurs aspects du
+modèle sont présentés et font l'objet de démonstration en grand groupe et
+d'exercices en trinômes. Le trinôme est l'occasion de s'entraîner à vivre le
+Processus avec la possibilité de se tromper, de s'interroger, de créer du sens
+avec d'autres participant·es. Nous accordons une place importantes aux partages
+en grand groupe, pendant lesquels il est possible d'exprimer ses questions, ses
+prises de conscience et ses découvertes.
 
-Cet atelier repose avant tout sur un travail pratique, dans le présent. Il
-s'agit d'une invitation à partager et à écouter d'autres partages, de mettre en
-lumière nos similarités et nos différences – et de créer un groupe dans lequel
-chacun·e peut se sentir soutenu·e et apporter son propre soutien aux autres.
+Cet atelier repose ainsi avant tout sur un travail pratique, dans le présent.
+Il s'agit d'une invitation à partager et à écouter d'autres partages, de mettre
+en lumière nos similarités et nos différences – et de créer un groupe dans
+lequel chacun·e peut se sentir soutenu·e et apporter son propre soutien aux
+autres.
 
-Nous suivons un processus qui introduit les diverses briques de base du modèle.
-Au fil de divers exercices de mise en pratique, nous passons progressivement
-d'une vision d'un monde de rareté à un monde d'abondance. Nous découvrons,
-accueillons et apprécions progressivement qui nous sommes vraiment.
+L'atelier est animé par [Christian Lapointe et Emmanuel Gaillot]({% link
+equipe.html %}), ayant tous deux
+une grande expérience du Processus de Validation de l'Humain. L'un et l'autre
+se sont formés pendant de nombreuses années auprès de [Maria
+Gomori](https://fr.wikipedia.org/wiki/Maria_Gomori), l'une des élèves directes
+de Virginia Satir.
 
-- **Modèle de communication** : identifier les postures de protection, observer les
-  postures que j'utilise, comprendre en quoi elles me protègent
-- **Règles** : détecter les règles et structures suivies, faire le lien avec les
-  messages et apprentissages reçus par le passé, assouplir ces règles et
-  structures en conservant la sagesse qu'elles contiennent
-- **Métaphore de l'iceberg** : observer et décrire ce qui se passe à
-  l'intérieur de soi, reconnaître ce qui nous convient et ce qui nous convient
-  moins
-- **Roue de l'influence** : identifier et s'approprier ses ressources
-- **Kit d'entretien de l'estime de soi** : utiliser ses ressources pour s'épanouir davantage
-- **Cinq libertés** : se donner la liberté et la légitimité de faire de nouveaux choix, qui
-  honorent ce qu'on veut actuellement
+# Ce que les autres en disent
 
-En nous appuyant sur ces briques de base, nous explorons ensuite divers
-véhicules développés par Virginia Satir visant la prise de conscience et le
-changement : ingrédients d'une interaction, reconstitution familiale, « _Parts
-Party_ », etc.
+> _« La formation Satir offre un voyage d'exploration de soi, avec beaucoup de_
+> _douceur, en finesse et en profondeur. J'ai apprécié la richesse de_
+> _l'association entre les moments d'ancrage qui permettent d'arriver pleinement_
+> _ici et maintenant, les partages théoriques éclairants, les temps_
+> _d'introspection, les exercices dans le corps et l'espace. Christian et_
+> _Emmanuel ont une belle capacité à créer un espace de sécurité pour le groupe,_
+> _qui permet des échanges authentiques, porteurs de transformation. Un très_
+> _grand merci à vous. »_ (Julia P., ancienne participante)
 
+# Prêt·e à cheminer ?
+
+Si ce que nous partageons ici résonne en vous, nous vous invitons à rejoindre
+la prochaine cohorte en cours de formation.
