@@ -4,6 +4,8 @@ host: 0.0.0.0
 collections:
   authors:
     output: true
+  pillars:
+    output: true
   videos:
     output: true
   workshops:
@@ -17,6 +19,11 @@ defaults:
       type: "authors"
     values:
       layout: "author"
+  - scope:
+      path: ""
+      type: "pillars"
+    values:
+      layout: "item"
   - scope:
       path: ""
       type: "posts"
