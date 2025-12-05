@@ -173,7 +173,13 @@ nav li.mise-en-avant a:hover {
 
 .contenu a {
   color: #0f252ddd;
+  background-color: #fabe5455;
+  box-shadow: 0 0 10px #fabe54;
   text-decoration: underline;
+}
+
+.contenu a:hover {
+  background-color: #fabe54aa;
 }
 
 .contenu ul {
@@ -243,10 +249,13 @@ nav li.mise-en-avant a:hover {
 
 .liste-items a {
   text-decoration: none;
+  background-color: initial;
+  box-shadow: initial;
   color: #0a6379;
 }
 
 .liste-items a:hover {
+  background-color: initial;
   color: #07ad84;
 }
 
