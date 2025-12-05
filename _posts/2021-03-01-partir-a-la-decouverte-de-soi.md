@@ -38,7 +38,7 @@ L'atelier comprendra cinq sessions de sept heures chacune. Les sessions auront
 lieu chaque lundi de 9h00 à 17h30 (CET / GMT+1) du 19 avril au 10 mai 2021.
 
 Au fil de ces cinq sessions, nous explorerons le modèle développé par [Virginia
-Satir]({% link virginia.md %}), avec les intentions suivantes :
+Satir]({% link _pillars/virginia.md %}), avec les intentions suivantes :
 - améliorer ses capacités de communication,
 - reconnaître et étendre les choix qui s'offrent à soi,
 - passer d'un contexte de limitation à un contexte de possibilité,

@@ -28,7 +28,7 @@ elles pour explorer des sujets qui les touchent vraiment. Par exemple&nbsp;:
 ### Intentions
 
 Au fil de cinq sessions, nous explorons le modèle développé par [Virginia
-Satir]({% link virginia.md %}), avec les intentions suivantes :
+Satir]({% link _pillars/virginia.md %}), avec les intentions suivantes :
 - améliorer ses capacités de communication,
 - reconnaître et étendre les choix qui s'offrent à soi,
 - passer d'un contexte de limitation à un contexte de possibilité,

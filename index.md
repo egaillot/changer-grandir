@@ -16,7 +16,7 @@ manquer est peut-être le simple fait d'en prendre conscience.
 
 [Christian Lapointe et Emmanuel Gaillot]({% link equipe.html %}) ont créé
 «&nbsp;Changer / Grandir&nbsp;» dans l'intention commune de promouvoir
-l'approche thérapeutique développée par [Virginia Satir]({% link virginia.md
+l'approche thérapeutique développée par [Virginia Satir]({% link _pillars/virginia.md
 %}) et de la rendre accessible à un public francophone.
 
 > « _En tant que thérapeute, je suis une compagne de route. J'essaie d'aider les

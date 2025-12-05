@@ -10,6 +10,6 @@ workshop_category: decouverte
 
 Le temps d'un atelier d'une demi-journée en présentiel, nous vous invitons au
 travers de quelques exercices à découvrir ou approfondir l'approche de
-[Virginia Satir]({% link virginia.md %}), que nous apprécions particulièrement :
+[Virginia Satir]({% link _pillars/virginia.md %}), que nous apprécions particulièrement :
 d'une part pour le respect de soi et des autres, et d'autre part pour la
 douceur avec laquelle elle invite des changements profonds.

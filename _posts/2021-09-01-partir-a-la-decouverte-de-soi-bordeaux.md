@@ -44,7 +44,7 @@ quai des Queyries, 33100 Bordeaux), que nous remercions pour son aimable
 accueil.
 
 Au fil de ces cinq sessions, nous explorerons le modèle développé par [Virginia
-Satir]({% link virginia.md %}), avec les intentions suivantes :
+Satir]({% link _pillars/virginia.md %}), avec les intentions suivantes :
 - améliorer ses capacités de communication,
 - reconnaître et étendre les choix qui s'offrent à soi,
 - passer d'un contexte de limitation à un contexte de possibilité,
