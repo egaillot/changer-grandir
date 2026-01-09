@@ -10,10 +10,11 @@ Début décembre 2021, Christian et moi terminions avec notre deuxième cohorte
 notre atelier Satir en Longueur. Nous parlions lors de cette dernière session
 des dynamiques de renouveau. Ce qui s'arrête et qui laisse la place à quelque
 chose de nouveau, les départs, les au-revoir. Les jachères, le repos. Notre
-mentor Maria Gomori nous a quittés. Le monde a continué sa course folle. Nous
-avons repris notre souffle. Puis nous nous sommes dit que ce serait le bon
-moment d'organiser un espace-temps sur Paris pour une nouvelle cohorte, pour
-une nouvelle édition de notre atelier Satir en Longueur.
+mentor [Maria Gomori]({% link _pillars/maria.md %}) nous a quittés. Le monde a
+continué sa course folle. Nous avons repris notre souffle. Puis nous nous
+sommes dit que ce serait le bon moment d'organiser un espace-temps sur Paris
+pour une nouvelle cohorte, pour une nouvelle édition de notre atelier Satir en
+Longueur.
 
 Satir en Longueur, c'est un atelier sur un an et demi, deux jours consécutifs
 (le vendredi et le samedi) tous les deux mois, avec une pause pendant les

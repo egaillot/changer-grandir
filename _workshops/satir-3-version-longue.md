@@ -75,7 +75,7 @@ L'atelier est animé par [Christian Lapointe et Emmanuel Gaillot]({% link
 equipe.html %}), ayant tous deux
 une grande expérience du Processus de Validation de l'Humain. L'un et l'autre
 se sont formés pendant de nombreuses années auprès de [Maria
-Gomori](https://fr.wikipedia.org/wiki/Maria_Gomori), l'une des élèves directes
+Gomori]({% link _pillars/maria.md %}), l'une des élèves directes
 de Virginia Satir.
 
 # Ce que les autres en disent

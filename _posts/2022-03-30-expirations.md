@@ -16,10 +16,10 @@ laisser inspirer.
 Nous avons animé un « brise-glace » de démarrage basé sur la Roue de
 l'influence, puis un atelier monté spécialement pour l'événement, basé sur [Les
 Cinq Libertés]({% link _posts/2022-03-23-cinq-libertes.md %}). L'occasion de
-mettre en pratique ce que Maria, notre mentor, nous a répété à de nombreuses
-reprises : quelque soit le format, le public, le sujet, la durée – toujours
-transmettre en montrant l'exemple de ce qu'est une connexion authentique à soi
-et à l'autre.
+mettre en pratique ce que [Maria]({% link _pillars/maria.md %}), notre mentor,
+nous a répété à de nombreuses reprises : quelque soit le format, le public, le
+sujet, la durée – toujours transmettre en montrant l'exemple de ce qu'est une
+connexion authentique à soi et à l'autre.
 
 Quand on t'invite en te disant « on voulait faire venir celles et ceux qui nous
 inspirent », tu te sens touché. Rien que pour ça, pour cette gratitude qui

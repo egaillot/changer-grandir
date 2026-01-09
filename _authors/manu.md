@@ -15,7 +15,7 @@ les personnes qu'il côtoie à se sentir mieux dans leur quotidien, à avoir plu
 d'assurance dans leurs choix et à être plus fières dans les résultats qu'elles
 atteignent.  Emmanuel s'est formé pendant de nombreuses années à l'approche
 thérapeutique développée par Virginia Satir auprès de [Maria
-Gomori](https://en.wikipedia.org/wiki/Maria_Gomori).
+Gomori]({% link _pillars/maria.md %}).
 
 Quand il ne travaille pas, Emmanuel brasse de la bière et pétrit du pain. Il
 habite à Paris et à Mallaret, un hameau de la région thiernoise.
